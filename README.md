@@ -1,5 +1,3 @@
-![Progress](progress.JPG)
-
 # hello-world2
 Let´s see if I can learn about GitHub this time
 This is markdown text
@@ -16,3 +14,4 @@ My project consists of the following goals:
 ## Project name
 So my project Name is Esther into Python and GitHub.
 
+![Progress](progress.JPG)
