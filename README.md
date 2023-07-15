@@ -9,5 +9,5 @@ My project consists of the following goals:
 3. **Learn how to handle Libraries**
 3. **Use fluently plotting libraries**
 
-So my project Name is ==Esther into Python and GitHub==
+So my project Name is ==Esther into Python and GitHub==.
 
