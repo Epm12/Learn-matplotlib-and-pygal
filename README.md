@@ -14,3 +14,4 @@ My project consists of the following goals:
 ## Project name
 So my project Name is Esther into Python and GitHub.
 
+![Progress](progress.JPG)
